@@ -1,92 +1,218 @@
 {
   "perguntas": {
-    "matematica": [
+    "historia": [
       {
-        "pergunta": "Qual é o resultado de 25 - 13?",
-        "a": "10",
-        "b": "12",
-        "c": "15",
-        "resposta": "b"
-      },
-      {
-        "pergunta": "Quanto é 8 x 7?",
-        "a": "54",
-        "b": "56",
-        "c": "64",
-        "resposta": "b"
-      },
-      {
-        "pergunta": "Se um pacote de lápis custa R$ 3 e você compra 4 pacotes, quanto você pagará?",
-        "a": "R$ 9",
-        "b": "R$ 10",
-        "c": "R$ 12",
+        "pergunta": "Quem foi o primeiro presidente dos Estados Unidos?",
+        "a": "George Washington",
+        "b": "Thomas Jefferson",
+        "c": "Abraham Lincoln",
         "resposta": "a"
       },
       {
-        "pergunta": "Se um retângulo tem comprimento 6 cm e largura 4 cm, qual é sua área?",
-        "a": "20 cm²",
-        "b": "24 cm²",
-        "c": "30 cm²",
+        "pergunta": "Em que ano começou a Segunda Guerra Mundial?",
+        "a": "1939",
+        "b": "1941",
+        "c": "1945",
+        "resposta": "a"
+      },
+      {
+        "pergunta": "Qual civilização antiga construiu as pirâmides de Gizé?",
+        "a": "Romanos",
+        "b": "Egípcios",
+        "c": "Maias",
+        "resposta": "b"
+      },
+      {
+        "pergunta": "Quem foi o líder do movimento pelos direitos civis nos EUA na década de 1960?",
+        "a": "Nelson Mandela",
+        "b": "Martin Luther King Jr.",
+        "c": "Malcolm X",
+        "resposta": "b"
+      },
+      {
+        "pergunta": "Qual foi a primeira cidade a ser bombardeada com uma bomba atômica?",
+        "a": "Tóquio",
+        "b": "Hiroshima",
+        "c": "Nagasaki",
+        "resposta": "b"
+      },
+      {
+        "pergunta": "Quem foi o imperador romano durante o nascimento de Jesus Cristo?",
+        "a": "Augusto",
+        "b": "Nero",
+        "c": "Júlio César",
+        "resposta": "a"
+      },
+      {
+        "pergunta": "Qual foi a principal causa da Revolução Francesa?",
+        "a": "Exploração colonial",
+        "b": "Desigualdade social",
+        "c": "Conflitos religiosos",
+        "resposta": "b"
+      },
+      {
+        "pergunta": "Quem descobriu o Brasil em 1500?",
+        "a": "Cristóvão Colombo",
+        "b": "Vasco da Gama",
+        "c": "Pedro Álvares Cabral",
+        "resposta": "c"
+      },
+      {
+        "pergunta": "Qual é o nome do tratado que encerrou a Primeira Guerra Mundial?",
+        "a": "Tratado de Versalhes",
+        "b": "Tratado de Paris",
+        "c": "Tratado de Tordesilhas",
+        "resposta": "a"
+      },
+      {
+        "pergunta": "Quem foi a primeira mulher a ganhar um Prêmio Nobel?",
+        "a": "Marie Curie",
+        "b": "Ada Lovelace",
+        "c": "Rosalind Franklin",
+        "resposta": "a"
+      }
+    ],
+    "ciencias": [
+      {
+        "pergunta": "Qual é o elemento mais abundante no universo?",
+        "a": "Oxigênio",
+        "b": "Hidrogênio",
+        "c": "Carbono",
+        "resposta": "b"
+      },
+      {
+        "pergunta": "Qual é a unidade básica da vida?",
+        "a": "Átomo",
+        "b": "Molécula",
+        "c": "Célula",
+        "resposta": "c"
+      },
+      {
+        "pergunta": "Qual planeta é conhecido como o Planeta Vermelho?",
+        "a": "Marte",
+        "b": "Júpiter",
+        "c": "Saturno",
+        "resposta": "a"
+      },
+      {
+        "pergunta": "Qual é a fórmula química da água?",
+        "a": "H2O",
+        "b": "CO2",
+        "c": "O2",
+        "resposta": "a"
+      },
+      {
+        "pergunta": "Quem é conhecido como o pai da teoria da relatividade?",
+        "a": "Isaac Newton",
+        "b": "Albert Einstein",
+        "c": "Galileu Galilei",
+        "resposta": "b"
+      },
+      {
+        "pergunta": "Qual é o maior planeta do Sistema Solar?",
+        "a": "Terra",
+        "b": "Júpiter",
+        "c": "Saturno",
+        "resposta": "b"
+      },
+      {
+        "pergunta": "Qual é a velocidade da luz no vácuo?",
+        "a": "300,000 km/s",
+        "b": "150,000 km/s",
+        "c": "1,000,000 km/s",
+        "resposta": "a"
+      },
+      {
+        "pergunta": "Qual é o nome do processo pelo qual as plantas produzem alimento?",
+        "a": "Fotossíntese",
+        "b": "Respiração",
+        "c": "Fermentação",
+        "resposta": "a"
+      },
+      {
+        "pergunta": "Quantos planetas existem no Sistema Solar?",
+        "a": "8",
+        "b": "9",
+        "c": "10",
+        "resposta": "a"
+      },
+      {
+        "pergunta": "Quem desenvolveu a teoria da evolução por seleção natural?",
+        "a": "Gregor Mendel",
+        "b": "Charles Darwin",
+        "c": "Louis Pasteur",
         "resposta": "b"
       }
     ],
-    "english": [
+    "literatura": [
       {
-        "pergunta": "Qual é a forma plural de 'child'?",
-        "a": "Childs",
-        "b": "Childes",
-        "c": "Children",
-        "resposta": "c"
+        "pergunta": "Quem escreveu 'Dom Quixote'?",
+        "a": "Miguel de Cervantes",
+        "b": "William Shakespeare",
+        "c": "Gabriel García Márquez",
+        "resposta": "a"
       },
       {
-        "pergunta": "Qual palavra é sinônimo de 'happy'?",
-        "a": "Sad",
-        "b": "Glad",
-        "c": "Angry",
+        "pergunta": "Qual é o autor da série 'Harry Potter'?",
+        "a": "J.R.R. Tolkien",
+        "b": "J.K. Rowling",
+        "c": "George R.R. Martin",
         "resposta": "b"
       },
       {
-        "pergunta": "Qual frase está gramaticalmente correta?",
-        "a": "She don't like ice cream",
-        "b": "She doesn't like ice cream",
-        "c": "She not likes ice cream",
+        "pergunta": "Quem é o autor de '1984'?",
+        "a": "Aldous Huxley",
+        "b": "George Orwell",
+        "c": "Ray Bradbury",
         "resposta": "b"
       },
       {
-        "pergunta": "Qual é o oposto de 'brave'?",
-        "a": "Courageous",
-        "b": "Fearless",
-        "c": "Cowardly",
-        "resposta": "c"
-      }
-    ],
-    "logica": [
-      {
-        "pergunta": "Qual é o próximo número na sequência? 2, 4, 6, 8, ...",
-        "a": "10",
-        "b": "12",
-        "c": "9",
+        "pergunta": "Qual livro foi escrito por Mary Shelley?",
+        "a": "Drácula",
+        "b": "Frankenstein",
+        "c": "O Médico e o Monstro",
         "resposta": "b"
       },
       {
-        "pergunta": "Qual palavra não pertence? Maçã, Banana, Laranja, Cenoura.",
-        "a": "Maçã",
-        "b": "Banana",
-        "c": "Cenoura",
-        "resposta": "c"
+        "pergunta": "Quem escreveu 'A Odisséia'?",
+        "a": "Homero",
+        "b": "Virgílio",
+        "c": "Sófocles",
+        "resposta": "a"
       },
       {
-        "pergunta": "Qual é o número que falta? 3, 6, 9, __, 15",
-        "a": "10",
-        "b": "11",
-        "c": "12",
-        "resposta": "c"
+        "pergunta": "Qual é o autor de 'Cem Anos de Solidão'?",
+        "a": "Mario Vargas Llosa",
+        "b": "Gabriel García Márquez",
+        "c": "Jorge Luis Borges",
+        "resposta": "b"
       },
       {
-        "pergunta": "Qual é a forma geométrica que vem a seguir? Quadrado, Círculo, Triângulo, __",
-        "a": "Oval",
-        "b": "Retângulo",
-        "c": "Pentágono",
+        "pergunta": "Quem escreveu 'O Grande Gatsby'?",
+        "a": "Ernest Hemingway",
+        "b": "F. Scott Fitzgerald",
+        "c": "John Steinbeck",
+        "resposta": "b"
+      },
+      {
+        "pergunta": "Quem é o autor de 'Moby Dick'?",
+        "a": "Herman Melville",
+        "b": "Mark Twain",
+        "c": "Edgar Allan Poe",
+        "resposta": "a"
+      },
+      {
+        "pergunta": "Qual obra foi escrita por Leo Tolstoy?",
+        "a": "Crime e Castigo",
+        "b": "Guerra e Paz",
+        "c": "Os Irmãos Karamazov",
+        "resposta": "b"
+      },
+      {
+        "pergunta": "Quem escreveu 'Orgulho e Preconceito'?",
+        "a": "Emily Brontë",
+        "b": "Jane Austen",
+        "c": "Charlotte Brontë",
         "resposta": "b"
       }
     ]
