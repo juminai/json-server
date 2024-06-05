@@ -1,6 +1,6 @@
 {
   "perguntas": {
-    "historia": [
+    "História": [
       {
         "pergunta": "Quem foi o primeiro presidente dos Estados Unidos?",
         "a": "George Washington",
@@ -72,7 +72,7 @@
         "resposta": "a"
       }
     ],
-    "ciencias": [
+    "Ciências": [
       {
         "pergunta": "Qual é o elemento mais abundante no universo?",
         "a": "Oxigênio",
@@ -144,7 +144,7 @@
         "resposta": "b"
       }
     ],
-    "literatura": [
+    "Literatura": [
       {
         "pergunta": "Quem escreveu 'Dom Quixote'?",
         "a": "Miguel de Cervantes",
